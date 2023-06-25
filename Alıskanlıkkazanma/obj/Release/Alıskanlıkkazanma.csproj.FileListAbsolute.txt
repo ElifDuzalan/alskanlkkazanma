@@ -1,0 +1,8 @@
+C:\Users\Victus\source\repos\Alıskanlıkkazanma\Alıskanlıkkazanma\bin\Release\Alıskanlıkkazanma.exe.config
+C:\Users\Victus\source\repos\Alıskanlıkkazanma\Alıskanlıkkazanma\bin\Release\Alıskanlıkkazanma.exe
+C:\Users\Victus\source\repos\Alıskanlıkkazanma\Alıskanlıkkazanma\bin\Release\Alıskanlıkkazanma.pdb
+C:\Users\Victus\source\repos\Alıskanlıkkazanma\Alıskanlıkkazanma\obj\Release\Alıskanlıkkazanma.csproj.AssemblyReference.cache
+C:\Users\Victus\source\repos\Alıskanlıkkazanma\Alıskanlıkkazanma\obj\Release\Alıskanlıkkazanma.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victus\source\repos\Alıskanlıkkazanma\Alıskanlıkkazanma\obj\Release\Alıskanlıkkazanma.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\Alıskanlıkkazanma\Alıskanlıkkazanma\obj\Release\Alıskanlıkkazanma.exe
+C:\Users\Victus\source\repos\Alıskanlıkkazanma\Alıskanlıkkazanma\obj\Release\Alıskanlıkkazanma.pdb
